@@ -12,7 +12,7 @@ const arboles = {
         estado: "Bueno",
         ubicacion: "Entrada primaria",
         descripcion: "Árbol de mango ubicado en la zona deportiva de la institución.",
-        imagen: "imagenes/ficus-benjamina.jpeg"
+        imagen: "imagenes/arbol001.jpg"
  },
 
  "002": {
