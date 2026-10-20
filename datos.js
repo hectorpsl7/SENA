@@ -12,7 +12,7 @@ const arboles = {
         estado: "Bueno",
         ubicacion: "Entrada primaria",
         descripcion: "Árbol de mango ubicado en la zona deportiva de la institución.",
-        imagen: "Imagenes/arbol001.jpg"
+        imagen: "Imagenes/arbol001.jpeg"
  },
 
  "002": {
@@ -225,14 +225,15 @@ const arboles = {
 
     "020": {
         codigo: "ARB-020",
-        nombre: "Veranera",
-        cientifico: "Bougainvillea glabra",
-        altura: "10 m",
-        diametro: "25 y 35 cm",
+        nombre: "Rosa",
+        cientifico: "Rosa",
+        altura: "30 a 90cm",
+        diametro: "7mm a 2cm",
         estado: "Bueno",
-        ubicacion: "Zona verde ",
-        descripcion: "Tiene hojas verdes brillantes, ligeramente pilosas o glabras, y de brácteas color magenta, las hojas caducifolias (hojas caedizas) "
+        ubicacion: "Cerca del aula",
+        descripcion: "La rosa es la flor del rosal, un arbusto de la familia de las rosáceas que destaca por su belleza, su intenso perfume y su gran variedad de colores."
     },
+    
 
     "021": {
         codigo: "ARB-021",
