@@ -12,7 +12,7 @@ const arboles = {
         estado: "Bueno",
         ubicacion: "Entrada primaria",
         descripcion: "Árbol de mango ubicado en la zona deportiva de la institución.",
-        imagen: "imagenes/arbol001.jpg"
+        imagen: "Imagenes/arbol001.jpg"
  },
 
  "002": {
@@ -24,7 +24,7 @@ const arboles = {
         estado: "Bueno",
         ubicacion: "Zona verde",
         descripcion: "Árbol ubicado en una zona verde de la institución.",
-        imagen: "imagenes/arbol002.jpg"
+        imagen: "Imagenes/arbol002.jpg"
     },
 
 "003": {
@@ -36,7 +36,7 @@ const arboles = {
     estado: "Bueno",
     ubicacion: "Parque Amistad",
     descripcion: "El Oití puede alcanzar hasta 10 y 15 metros sus hojas son de base aguda, ápice acuminado, borde ondeado, ubicación alterna, limbo aovada-lanceolada, nervadura penninervia presentan una pelusita en su envés lo que le permite adaptarse bien a los climas fríos y húmedos; el color del tronco está muy pálido se cree que por la escases de abono.",
-    imagen: "imagenes/arbol003.jpg"
+    imagen: "Imagenes/arbol003.jpg"
 },
 
 "004": {
