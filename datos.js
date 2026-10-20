@@ -3,7 +3,7 @@
 
 const arboles = {
 
-   "001": {
+"001": {
         codigo: "ARB-001",
         nombre: "Matapalo",
         cientifico: "Ficus Benjamina",
@@ -27,8 +27,7 @@ const arboles = {
         imagen: "imagenes/arbol002.jfif"
     },
 
-
-   "003": {
+"003": {
     codigo: "ARB-003",
     nombre: "Oltí",
     cientifico: "Licania tomentosa",
@@ -38,11 +37,6 @@ const arboles = {
     ubicacion: "Parque Amistad",
     descripcion: "El Oití puede alcanzar hasta 10 y 15 metros sus hojas son de base aguda, ápice acuminado, borde ondeado, ubicación alterna, limbo aovada-lanceolada, nervadura penninervia presentan una pelusita en su envés lo que le permite adaptarse bien a los climas fríos y húmedos; el color del tronco está muy pálido se cree que por la escases de abono."
 },
-
-
-
-
-
 
 "004": {
         codigo: "ARB-004",
