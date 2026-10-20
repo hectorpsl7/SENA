@@ -24,7 +24,7 @@ const arboles = {
         estado: "Bueno",
         ubicacion: "Zona verde",
         descripcion: "Árbol ubicado en una zona verde de la institución.",
-        imagen: "imagenes/arbol002.jfif"
+        imagen: "imagenes/arbol002.jpg"
     },
 
 "003": {
@@ -35,7 +35,8 @@ const arboles = {
     diametro: "50 cm",
     estado: "Bueno",
     ubicacion: "Parque Amistad",
-    descripcion: "El Oití puede alcanzar hasta 10 y 15 metros sus hojas son de base aguda, ápice acuminado, borde ondeado, ubicación alterna, limbo aovada-lanceolada, nervadura penninervia presentan una pelusita en su envés lo que le permite adaptarse bien a los climas fríos y húmedos; el color del tronco está muy pálido se cree que por la escases de abono."
+    descripcion: "El Oití puede alcanzar hasta 10 y 15 metros sus hojas son de base aguda, ápice acuminado, borde ondeado, ubicación alterna, limbo aovada-lanceolada, nervadura penninervia presentan una pelusita en su envés lo que le permite adaptarse bien a los climas fríos y húmedos; el color del tronco está muy pálido se cree que por la escases de abono.",
+    imagen: "imagenes/arbol003.jpg"
 },
 
 "004": {
