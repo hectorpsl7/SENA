@@ -329,28 +329,5 @@ const arboles = {
         descripcion: "Arbusto siempre verde y aromático de hasta 5 m de fuste, de follaje compacto.",
         imagen: "Imagenes/arbol026.jpeg"
     },
-    "027": {
-        codigo: "ARB-027",
-        nombre: "Arbol clusia",
-        cientifico: "Clusia rosea",
-        altura: "20 m",
-        diametro: "30 a 60 cm",
-        estado: "Bueno",
-        ubicacion: "Zona verde",
-        descripcion: "Sus especies son arbustos, vides y árboles pequeños y medianos de hasta 20 m de altura, con follaje perennifolio. Algunas especies germinan como epifitas, desarrollan luego largas raíces que bajan hasta la tierra.",
-        imagen: "Imagenes/arbol027.jpeg"
-    },
-    "028": {
-        codigo: "ARB-028",
-        nombre: "Limon Swinlea",
-        cientifico: "Swinglea glutinosa",
-        altura: "10 m",
-        diametro: "40 cm",
-        estado: "Bueno",
-        ubicacion: "Zona verde",
-        descripcion: "La swinglea se utiliza principalmente para cercas vivas, ya que por su follaje denso y alta cantidad de espinas, en algunos casos prácticamente elimina la necesidad de postes y alambre.",
-        imagen: "Imagenes/arbol028.jpeg"
-    }
-
 
 };
