@@ -11,7 +11,7 @@ const arboles = {
         diametro: "75cm a 100 cm",
         estado: "Bueno",
         ubicacion: "Entrada primaria",
-        descripcion: "Árbol de mango ubicado en la zona deportiva de la institución.",
+        descripcion: "El Matapalo es un árbol tropical de grandes raíces y ramas extensas que crece sobre otros árboles, rodeándolos y aprovechando su estructura para desarrollarse.",
         imagen: "Imagenes/arbol001.jpeg"
  },
 
@@ -23,7 +23,7 @@ const arboles = {
         diametro: "20 y 50 cm",
         estado: "Bueno",
         ubicacion: "Zona verde",
-        descripcion: "Árbol ubicado en una zona verde de la institución.",
+        descripcion: "El Pomarrosa es un árbol frutal tropical que produce frutos rosados, de sabor dulce y aroma suave. Se caracteriza por su follaje verde y sus pequeñas flores blancas.",
         imagen: "Imagenes/arbol002.jpeg"
     },
 

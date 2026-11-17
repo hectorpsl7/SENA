@@ -58,9 +58,6 @@
                     Cargando...
                 </h1>
 
-                <p>
-                    Información del árbol registrado.
-                </p>
 
             </div>
 
@@ -190,6 +187,13 @@
         // Comprobar si existe
 
         if (arbol) {
+
+            document.querySelector(".foto-arbol").innerHTML = `
+    <img 
+        src="${arbol.imagen}" 
+        alt="Fotografía de ${arbol.nombre}"
+    >
+`;
 
             document.getElementById("titulo-arbol").textContent =
                 "Árbol " + id;

@@ -1,5 +1,22 @@
+.foto-arbol {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+    margin: 20px auto;
+}
 
-/* CONFIGURACIÓN GENERAL */
+.foto-arbol img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 650px;
+    object-fit: contain;
+    display: block;
+    border-radius: 15px;
+}
 
 * {
     margin: 0;
@@ -217,17 +234,6 @@ body {
     transform: translateY(-5px);
 }
 
-.foto-arbol {
-    height: 220px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    background-color: #dfeadf;
-
-    font-size: 80px;
-}
 
 .informacion-arbol {
     padding: 25px;
