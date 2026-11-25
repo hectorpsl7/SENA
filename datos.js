@@ -5,13 +5,13 @@ const arboles = {
 
 "001": {
     codigo: "ARB-001",
-    nombre: "Papaya",
-    cientifico: "Carica papaya",
-    altura: "2 m a 10 m",
-    diametro: "20 cm a 30 cm",
-    estado: "Casi muerta",
+    nombre: "Matapalo",
+    cientifico: "Ficus americana",
+    altura: "10 m a 25 m",
+    diametro: "40 cm a 100 cm",
+    estado: "Saludable",
     ubicacion: "Entrada primaria",
-    descripcion: "La papaya es una planta tropical de tronco recto y poco ramificado, con hojas grandes y palmeadas en la parte superior. Produce frutos carnosos de forma ovalada, conocidos por su sabor dulce y sus propiedades nutritivas.",
+    descripcion: "El matapalo es un árbol tropical que se caracteriza por su forma de crecimiento particular. Algunas especies comienzan desarrollándose sobre otros árboles y extienden sus raíces hacia el suelo, formando con el tiempo una estructura robusta que puede llegar a cubrir o rodear al árbol que les sirve de soporte. Sus hojas son verdes y su copa proporciona sombra y refugio para diferentes especies de animales. Además, sus frutos sirven de alimento para aves y otros organismos, contribuyendo al equilibrio del ecosistema.",
     imagen: "Imagenes/arbol001.jpeg"
 },
 
@@ -308,16 +308,16 @@ const arboles = {
 },
 
 "025": {
-        codigo: "ARB-025",
-        nombre: "Higuerón",
-        cientifico: "Ficus luschnathaniana",
-        altura: "50 m",
-        diametro: "2 m",
-        estado: "Bueno",
-        ubicacion: "Zona verde",
-        descripcion: "Copa amplia, aparasolada con follaje esparcido dando apariencia de copa plana. Tronco recto y cilindrico. Corteza lisa, muy clara, abundante latex cremoso.",
-        imagen: "Imagenes/arbol025.jpeg"
-    },
+    codigo: "ARB-025",
+    nombre: "Papaya",
+    cientifico: "Carica papaya",
+    altura: "2 m a 10 m",
+    diametro: "20 cm a 30 cm",
+    estado: "Casi muerta",
+    ubicacion: "Entrada primaria",
+    descripcion: "La papaya es una planta tropical de tronco recto y poco ramificado, con hojas grandes y palmeadas en la parte superior. Produce frutos carnosos de forma ovalada, conocidos por su sabor dulce y sus propiedades nutritivas.",
+    imagen: "Imagenes/arbol025.jpeg"
+},
     "026": {
         codigo: "ARB-026",
         nombre: "Mirto",
