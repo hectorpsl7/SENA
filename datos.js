@@ -4,16 +4,16 @@
 const arboles = {
 
 "001": {
-        codigo: "ARB-001",
-        nombre: "Matapalo",
-        cientifico: "Ficus Benjamina",
-        altura: "15 m",
-        diametro: "75cm a 100 cm",
-        estado: "Bueno",
-        ubicacion: "Entrada primaria",
-        descripcion: "El Matapalo es un árbol tropical de grandes raíces y ramas extensas que crece sobre otros árboles, rodeándolos y aprovechando su estructura para desarrollarse.",
-        imagen: "Imagenes/arbol001.jpeg"
- },
+    codigo: "ARB-001",
+    nombre: "Papaya",
+    cientifico: "Carica papaya",
+    altura: "2 m a 10 m",
+    diametro: "20 cm a 30 cm",
+    estado: "Casi muerta",
+    ubicacion: "Entrada primaria",
+    descripcion: "La papaya es una planta tropical de tronco recto y poco ramificado, con hojas grandes y palmeadas en la parte superior. Produce frutos carnosos de forma ovalada, conocidos por su sabor dulce y sus propiedades nutritivas.",
+    imagen: "Imagenes/arbol001.jpeg"
+},
 
  "002": {
         codigo: "ARB-002",
